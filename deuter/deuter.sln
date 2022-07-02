@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "deuter", "..\..\..\Desktop\deuter\", "{82DE2C76-3282-4D65-A6FA-116036F2BC3F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52025"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\deuter\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52025\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52025"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\deuter\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52025\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52025"
+		SlnRelativePath = "..\..\..\Desktop\deuter\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DE2C76-3282-4D65-A6FA-116036F2BC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DE2C76-3282-4D65-A6FA-116036F2BC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C26F76-74E3-4820-BDF2-3BE1417510A1}
+	EndGlobalSection
+EndGlobal
