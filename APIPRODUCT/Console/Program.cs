@@ -14,6 +14,11 @@ namespace Console
         {
             ApplicationDbContext db = new ApplicationDbContext();
             UnitOfWork unit = new UnitOfWork(db);
+            var products = unit.Products.GetAllProductsWithShop();
+            foreach (var product in products)
+            {
+                System.Console.WriteLine(product.Shop.Title+ "" + product.Price);
+            }
             //var products = unit.Products.GetAll();
             //foreach (var pro in products)
             //{

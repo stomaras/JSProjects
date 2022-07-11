@@ -178,6 +178,7 @@
 
 
         function CreateRow(pro) {
+            
             let template = `
                                                 <tr>
                                                     <td class="productId">${pro.Id}</td>
@@ -187,7 +188,7 @@
                                                     <td class="productTotal">${CalculateTotal(pro.Price, pro.Quantity)}</td>
                                                     <td>
                                                             <ul>
-                                                                <li>${pro.Title}</li>
+                                                                <li>${pro.Shop.Title}</li>
                                                             </ul>
                                                     </td>
                                                     <td>

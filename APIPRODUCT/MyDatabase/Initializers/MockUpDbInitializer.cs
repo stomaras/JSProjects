@@ -26,14 +26,14 @@ namespace MyDatabase.Initializers
             Product p11 = new Product() { Name = "IPhone 11", Price=500, Quantity=78 };
             Product p12 = new Product() { Name = "Phone 11", Price=500, Quantity=78 };
 
-           
+            context.Products.AddOrUpdate(p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12);
 
 
             Shop s1 = new Shop() { Address = "Greece", Title = "Plaisio" };
             Shop s2 = new Shop() { Address = "USA", Title = "Amazon" };
             Shop s3 = new Shop() { Address = "France", Title = "le coq sportif" };
+            context.Shops.AddOrUpdate(s1, s2, s3);
 
-           
 
             //p1.Shop = s1;
             //p2.Shop = s1;

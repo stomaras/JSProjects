@@ -22,3 +22,15 @@ C:\Users\spyros\C-\APIPRODUCT\Entities\obj\Debug\Entities.csproj.CoreCompileInpu
 C:\Users\spyros\C-\APIPRODUCT\Entities\obj\Debug\Entities.csproj.CopyComplete
 C:\Users\spyros\C-\APIPRODUCT\Entities\obj\Debug\Entities.dll
 C:\Users\spyros\C-\APIPRODUCT\Entities\obj\Debug\Entities.pdb
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\Entities.dll.config
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\Entities.dll
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\Entities.pdb
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\obj\Debug\Entities.dll
+C:\Users\user\Downloads\JSProjects-main\APIPRODUCT\Entities\obj\Debug\Entities.pdb

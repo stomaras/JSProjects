@@ -19,6 +19,6 @@ namespace Entities
 
 
         // Navigation Properties
-        public Shop Shop { get; set; }
+        public virtual Shop Shop { get; set; }
     }
 }

@@ -130,6 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\APIControllers\BaseClassController.cs" />
     <Compile Include="Controllers\APIControllers\ProductAPIController.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="DTOS\ProductDTO.cs" />
@@ -285,6 +286,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\BaseClass\" />
+    <Folder Include="Views\Contact\" />
     <Folder Include="Views\ProductAPI\" />
   </ItemGroup>
   <ItemGroup>
